@@ -1,0 +1,18 @@
+# Vivado generated output
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+*.rpt
+*.dcp
+*.bit
+*.ltx
+*.xpr
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+vivado_project/
